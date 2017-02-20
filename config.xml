@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="calc.com" version="3.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.caasi.myapplication" version="3.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Trege</name>
   <description>Project Trege</description>
-  <author href="http://moodle.com" email="juan@moodle.com">Juan Leyva</author>
+  <author href="https://www.facebook.com/ijwahing" email="juan@moodle.com">Caasi </author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
